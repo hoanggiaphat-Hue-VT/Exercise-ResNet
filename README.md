@@ -1,1 +1,1 @@
-# Exercise-ResNet-and-DenseNet-
+# Exercise-ResNet
